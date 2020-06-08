@@ -1,8 +1,8 @@
 # iMessage Analysis
 Credit to:
-https://stmorse.github.io/journal/iMessage.html
-https://www.wired.com/2013/11/backup-sms-iphone/
-https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#messages
+https://stmorse.github.io/journal/iMessage.html  
+https://www.wired.com/2013/11/backup-sms-iphone/  
+https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup#messages  
 
 ## Data Format (after export)
 There are three components:
